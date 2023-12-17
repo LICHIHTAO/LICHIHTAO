@@ -1,5 +1,5 @@
 ### 👋 Hi there, I am JiDo Lee
-![](https://komarev.com/ghpvc/?username=JidoLee&color=white)
+![](https://komarev.com/ghpvc/?username=JidoLee&color=000000)
 ### my skill
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
