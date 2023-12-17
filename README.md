@@ -1,4 +1,5 @@
-### <h3>👋 Hi there, I am JiDo Lee</h3>
+### 👋 Hi there, I am JiDo Lee
+<hr class ="one">
 ![](https://komarev.com/ghpvc/?username=JidoLee&color=000000)
 ### my skill
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
