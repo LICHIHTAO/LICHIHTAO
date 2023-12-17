@@ -1,4 +1,4 @@
-### 👋 Hi there, I am JiDo Lee <a class="right" src="https://komarev.com/ghpvc/?username=JidoLee&color=000000">
+### 👋 Hi there, I am JiDo Lee <a style="right" src="https://komarev.com/ghpvc/?username=JidoLee&color=000000">
 
 <hr class ="one">
 
