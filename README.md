@@ -1,5 +1,5 @@
 ### 👋 Hi there, I am JiDo Lee  <img align="right" src="https://komarev.com/ghpvc/?username=JidoLee&color=000000"/>
-
+제 소개를 해보도록 하겠습니다. 저는 기계공학 전공을 하였고 ...
 <hr class ="one">
 
 ### my skills
