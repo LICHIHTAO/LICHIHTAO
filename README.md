@@ -33,7 +33,7 @@
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
 ### what I study next
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<!-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) -->
 
 <!--
 **LICHIHTAO/LICHIHTAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
