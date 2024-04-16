@@ -1,5 +1,5 @@
 ### 👋 Hi there, I am JiDo Lee  <img align="right" src="https://komarev.com/ghpvc/?username=JidoLee&color=000000"/>
-제 소개를 해보도록 하겠습니다. 저는 기계공학 전공을 하였고 ...
+Let me introduce myself. I graduated with a bachelor's degree in mechanical engineering and a master's degree in fluid dynamics specializing in computational fluid dynamics (CFD). Fortunately, I discovered the joy of programming along the way and decided to pursue it as a career. Through programming, I have developed automated stock trading codes and various projects like plant kits. Currently, I am honing my coding skills and developing AI chatbots at a small company. 
 <hr class ="one">
 
 ### my skills
